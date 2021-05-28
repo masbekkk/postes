@@ -1,0 +1,49 @@
+[data-theme="dark"] .text-dark {
+  color: #eee;
+}
+
+[data-theme="dark"] {
+  background-color: #121212 !important;
+  color :#eee;
+}
+
+[data-theme="dark"] .bg-light {
+  background-color: #333 !important;
+  color: white;
+  
+}
+
+[data-theme="dark"] .section-title {
+  background-color: #333 !important;
+  color: white; 
+}
+
+[data-theme="dark"] text {
+  background-color: #333 !important;
+  color: white;
+}
+
+[data-theme="dark"] #hmm{
+ 
+  color: white;
+  
+}
+
+[data-theme="dark"] .bg-white{
+  background-color: #333 !important;
+  color: white;
+}
+
+[data-theme="dark"] #bg-white{
+  background-color: #333 !important;
+  color: white;
+}
+
+[data-theme="dark"] .oke :hover{
+  background-color: #333 !important;
+  color: white;
+}
+
+[data-theme="dark"] .bg-black {
+  background-color: #eee !important;
+}
